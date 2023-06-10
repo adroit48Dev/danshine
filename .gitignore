@@ -1,0 +1,5 @@
+venv
+.coverage
+d s_admin_customuser
+pipfile
+__pycache__
